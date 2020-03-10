@@ -1,12 +1,12 @@
 {
-  "name": "tleaf",
-  "version": "0.2.0",
+  "name": "tleafv",
+  "version": "0.0.1",
   "description": "AngularJS unit test generator",
-  "author": "Michael Radionov (https://github.com/mradionov)",
+  "author": "Vadim Gordienko (https://github.com/invader777)",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mradionov/tleaf"
+    "url": "https://github.com/invader777/tleaf"
   },
   "main": "index.js",
   "bin": "bin/tleaf",
